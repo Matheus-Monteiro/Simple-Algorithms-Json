@@ -1,1 +1,1 @@
-# hacktoberfestalgorithms2022
+# simple algorithms json
